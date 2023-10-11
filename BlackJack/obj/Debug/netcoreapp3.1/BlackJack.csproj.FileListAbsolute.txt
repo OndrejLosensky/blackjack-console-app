@@ -1,0 +1,31 @@
+F:\Photo a Video edit\Visual Studio\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.exe
+F:\Photo a Video edit\Visual Studio\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.deps.json
+F:\Photo a Video edit\Visual Studio\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.json
+F:\Photo a Video edit\Visual Studio\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.dev.json
+F:\Photo a Video edit\Visual Studio\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.dll
+F:\Photo a Video edit\Visual Studio\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.pdb
+F:\Photo a Video edit\Visual Studio\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csprojAssemblyReference.cache
+F:\Photo a Video edit\Visual Studio\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfoInputs.cache
+F:\Photo a Video edit\Visual Studio\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfo.cs
+F:\Photo a Video edit\Visual Studio\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csproj.CoreCompileInputs.cache
+F:\Photo a Video edit\Visual Studio\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.dll
+F:\Photo a Video edit\Visual Studio\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.pdb
+F:\Photo a Video edit\Visual Studio\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.genruntimeconfig.cache
+F:\Photo a Video edit\Visual Studio\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\Program.cs
+F:\Photo a Video edit\Visual Studio\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\TextFile1.txt
+E:\C#\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.exe
+E:\C#\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\Program.cs
+E:\C#\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\TextFile1.txt
+E:\C#\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.deps.json
+E:\C#\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.json
+E:\C#\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.dev.json
+E:\C#\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.dll
+E:\C#\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.pdb
+E:\C#\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csproj.AssemblyReference.cache
+E:\C#\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfoInputs.cache
+E:\C#\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfo.cs
+E:\C#\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csproj.CoreCompileInputs.cache
+E:\C#\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.dll
+E:\C#\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.pdb
+E:\C#\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.genruntimeconfig.cache

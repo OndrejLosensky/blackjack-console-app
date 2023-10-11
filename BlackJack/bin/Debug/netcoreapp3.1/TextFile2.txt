@@ -1,0 +1,21 @@
+
+úterý 18. května 2021 21:43:27
+počet hodů:{0}
+vyhrává hráč!
+jméno hráče:Ondřej
+--------------
+úterý 18. května 2021 21:45:23
+počet hodů:{0}
+vyhrává hráč!
+jméno hráče:Ondrej
+--------------
+úterý 18. května 2021 21:47:29
+počet hodů:{0}
+vyhrává kupiér!
+jméno hráče:ondrej
+--------------
+úterý 18. května 2021 21:48:14
+počet hodů:{0}
+vyhrává hráč!
+jméno hráče:ondrej
+--------------

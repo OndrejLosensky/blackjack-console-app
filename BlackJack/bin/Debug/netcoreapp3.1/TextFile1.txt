@@ -1,0 +1,8 @@
+﻿číslo 1 = Seven 7
+číslo 2 = Eight 8
+číslo 3 = Nine 9
+číslo 4 = Ten 10
+číslo 5 = Jack 10
+číslo 6 = Queen 10
+číslo 7 = King 10
+číslo 8 = Ace 11
